@@ -1,20 +1,49 @@
 aid: graft
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/graft.png
 name: Graft
-description: 'Graft is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Graft was a San Francisco-based AI platform company founded in 2021 by Adam Oliner
+  (former Head of Machine Learning at Slack and Splunk) and Eric Schkufza. Its "Intelligence Layer"
+  operationalized foundation models — LLMs and multimodal models over text, images, audio, video and
+  graphs — connecting internal documents, databases and knowledge bases so organizations could build
+  production-grade generative, predictive and structured-analytics solutions without deep machine-learning
+  expertise or infrastructure. Graft raised a $4.5M pre-seed led by GV (2022) and a $10M seed led by
+  Radical Ventures (2023). In October 2025 the Graft team and technology were acquired by You.com, with
+  Adam Oliner joining as Field CTO; the graft.com domain is no longer operated by the company and no
+  public API, developer portal, or documentation surface remains.'
 url: https://raw.githubusercontent.com/api-evangelist/graft/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - gv
+- radical-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: you.com
+x-acquired-date: '2025-10'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
-- Ai
+- AI
+- Machine Learning
+- Foundation Models
+- LLM
+- Multimodal
+- Enterprise AI
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +53,12 @@ maintainers:
 common:
 - type: Website
   url: https://graft.com
+- type: Acquisition
+  url: https://you.com/resources/you-com-welcomes-graft-to-accelerate-enterprise-ai-search-infrastructure
+- type: Crunchbase
+  url: https://www.crunchbase.com/organization/graft-13a7
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
