@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://graft.com', status: 301, note: 'declared website redirects to https://introvert.com/?domain=graft.com — a different registrable domain (graft.com -> introvert.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/graft.png
 name: Graft
 description: 'Graft was a San Francisco-based AI platform company founded in 2021 by Adam Oliner
