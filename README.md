@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Graft is a company surfaced as a portfolio company of gv and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: gv — https://graft.com
+Graft was a San Francisco-based AI platform company founded in 2021 by Adam Oliner (former Head of Machine Learning at Slack and Splunk) and Eric Schkufza. Its "Intelligence Layer" operationalized foundation models — LLMs and multimodal models over text, images, audio, video and graphs — connecting internal documents, databases and knowledge bases so organizations could build production-grade generative, predictive and structured-analytics solutions without deep machine-learning expertise or infrastructure. Graft raised a $4.5M pre-seed led by GV (2022) and a $10M seed led by Radical Ventures (2023). In October 2025 the Graft team and technology were acquired by You.com, with Adam Oliner joining as Field CTO; the graft.com domain is no longer operated by the company and no public API, developer portal, or documentation surface remains.
+
+**Areas:** Company · Artificial Intelligence · Machine Learning · Foundation Models · LLM · Multi-Modal · Enterprise AI · Acquired
+
+## Graft on APIs.io (historical record)
+
+Everything profiled for Graft is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/graft/](https://apis.io/providers/graft/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://graft.com)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Graft: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/graft/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
